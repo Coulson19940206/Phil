@@ -1,0 +1,6 @@
+{
+  "name": "墨渊AI官方公测公告",
+  "description": "墨渊AI软件官方公测公告与算力、资产、服务交互终端。踏入万象之渊，见证智能跃迁。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
